@@ -4,3 +4,12 @@ h1 {
     font-family: Arial, sans-serif;
     text-align: center;
   }
+  <nav>
+		<ul>
+			<li><a href="family.html">His family</a></li>
+			<li><a href="career.html">His career</a></li>
+            <li><a href="teams.html">His teams</a></li>
+			<li><a href="https://www.google.com/">This is my External Link which takes you to google.com</a></li>
+			</a>
+		</ul>
+	</nav>
